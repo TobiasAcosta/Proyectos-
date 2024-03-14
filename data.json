@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "nombre": "T-shirt Basic White" ,
+        "precio": 15.000 ,
+        "imagen": "/img/remera1.jpg",
+        "categoria": "camisetas"
+    } ,
+    {
+        "id": 2,
+        "nombre": "Oversizes Pink and White",
+        "precio": 18.000,
+        "imagen": "/img/remera2.jpg",
+        "categoria": "camisetas"
+    } ,
+    {
+        "id": 3,
+        "nombre":"Black Angels" ,
+        "precio": 18.000,
+        "imagen": "/img/remera3.jpg",
+        "categoria":"camisetas" 
+    } ,
+    {
+        "id": 4,
+        "nombre": "T-shirt Mood",
+        "precio": 18.000,
+        "imagen":"/img/remera4.jpg" ,
+        "categoria": "camisetas"
+    } ,
+    {
+        "id": 5,
+        "nombre": "Pants Gradient",
+        "precio": 40.000,
+        "imagen": "/img/pantalon1.jpg" ,
+        "categoria": "pantalones"
+    } ,
+    {
+        "id": 6,
+        "nombre": "Corderoy",
+        "precio": 30.000,
+        "imagen": "/img/pantalon2.jpg",
+        "categoria": "pantalones"
+    } ,
+    {
+        "id": 7,
+        "nombre": "B&W",
+        "precio": 42.000,
+        "imagen": "/img/pantalon3.jpg",
+        "categoria": "pantalones"
+    } ,
+    {
+        "id": 8,
+        "nombre": "Adidas",
+        "precio": 180.000,
+        "imagen": "/img/zapasAdidas.jpg",
+        "categoria": "calzado"
+    } ,
+    {
+        "id": 9,
+        "nombre": "Jordan",
+        "precio": 190.000,
+        "imagen": "/img/zapasJordan.jpg",
+        "categoria": "calzado"
+    } ,
+    {
+        "id": 10,
+        "nombre": "Louis vuitton",
+        "precio": 250.000,
+        "imagen": "/img/zapasluisboton.jpg",
+        "categoria": "calzado"
+    } ,
+    {
+        "id": 11,
+        "nombre": "Air Force 1",
+        "precio": 200.000,
+        "imagen": "/img/zapasNike1.jpg",
+        "categoria": "calzado"
+    } 
+]
